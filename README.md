@@ -18,7 +18,7 @@ However, there is a drawback, a group video call is limited to 10 people.
 ## class video call (Google Hangouts Meet)
 That's where [Google Hangouts Meet](https://meet.google.com) comes in. With your G Suite Business account, setup a (recurring) meeting and invite all the Google accounts. Choose Hangouts Meet for the venue. The maximum number of participants is 250 here, which is more than enough. Also share the meeting link in the chat group e.g. 15 minutes before the meeting.
 
-There is a catch here. After the children clicked on the meeting link you need to [grant access](https://support.google.com/meethardware/answer/3341433?hl=en#room&device&display&select&hardware&personal&outside) to each. So make sure that you are logged in with your Google Hangouts Meet G Suite business account to confirm those requests.
+There is a catch here. After the children clicked on the meeting link you need to [grant access](https://support.google.com/meethardware/answer/3341433) to each. So make sure that you are logged in with your Google Hangouts Meet G Suite business account to confirm those requests.
 
 ## Google for education
 For the longterm, a school might consider to register for "G Suite for education". Free of charge for public schools, it provides additional benefits:
