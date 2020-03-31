@@ -20,9 +20,13 @@ That's where [Google Hangouts Meet](https://meet.google.com) comes in. With your
 
 There is a catch here. After the children clicked on the meeting link you need to [grant access](https://support.google.com/meethardware/answer/3341433) to each. So make sure that you are logged in with your Google Hangouts Meet G Suite business account to confirm those requests.
 
-## Google for education
+## whats next?
+### Google for education
 For the longterm, a school might consider to register for "G Suite for education". Free of charge for public schools, it provides additional benefits:
 * no "granting access" required for Google Hangouts Meet meetings
 * the teacher can organize meetings herself and can prevent kids from muting her own microphone
 * Google Classroom for managing teaching and learning
 * etc.
+
+### Edulog
+In the longterm and in Switzerland (some schools start after the summer holiday) a new platform called edulog.ch by educa.ch will be rolled out. Companies with an Umbrella agreement with educa.ch (like Microsoft, Google etc.) can then offer their services through the platform. Edulog is mainly an identity provider.
